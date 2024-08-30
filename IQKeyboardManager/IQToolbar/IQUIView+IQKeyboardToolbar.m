@@ -26,9 +26,9 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
-#import "IQUIView+IQKeyboardToolbar.h"
-#import "IQKeyboardManagerConstantsInternal.h"
-#import "IQKeyboardManager.h"
+#import <IQKeyboardManager/IQUIView+IQKeyboardToolbar.h>
+#import <IQKeyboardManager/IQKeyboardManagerConstantsInternal.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
 @implementation IQBarButtonItemConfiguration

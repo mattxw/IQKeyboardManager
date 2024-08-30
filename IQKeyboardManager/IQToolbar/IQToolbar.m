@@ -23,9 +23,9 @@
 
 #import <UIKit/UIKit.h>
 
-#import "IQToolbar.h"
-#import "IQKeyboardManagerConstantsInternal.h"
-#import "IQUIView+Hierarchy.h"
+#import <IQKeyboardManager/IQToolbar.h>
+#import <IQKeyboardManager/IQKeyboardManagerConstantsInternal.h>
+#import <IQKeyboardManager/IQUIView+Hierarchy.h>
 
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")

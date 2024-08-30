@@ -23,10 +23,10 @@
 
 #import <UIKit/UIKit.h>
 
-#import "IQKeyboardReturnKeyHandler.h"
-#import "IQKeyboardManager.h"
-#import "IQUIView+Hierarchy.h"
-#import "IQNSArray+Sort.h"
+#import <IQKeyboardManager/IQKeyboardReturnKeyHandler.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import <IQKeyboardManager/IQUIView+Hierarchy.h>
+#import <IQKeyboardManager/IQNSArray+Sort.h>
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
 @interface IQTextFieldViewInfoModel : NSObject

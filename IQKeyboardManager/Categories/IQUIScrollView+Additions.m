@@ -23,7 +23,7 @@
 
 #import <objc/runtime.h>
 
-#import "IQUIScrollView+Additions.h"
+#import <IQKeyboardManager/IQUIScrollView+Additions.h>
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
 @implementation UIScrollView (Additions)

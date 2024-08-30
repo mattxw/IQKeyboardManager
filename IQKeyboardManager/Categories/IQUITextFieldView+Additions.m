@@ -23,7 +23,7 @@
 
 #import <objc/runtime.h>
 
-#import "IQUITextFieldView+Additions.h"
+#import <IQKeyboardManager/IQUITextFieldView+Additions.h>
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
 @implementation UIView (Additions)

@@ -24,10 +24,10 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
-#import "IQUIView+Hierarchy.h"
-#import "IQUITextFieldView+Additions.h"
-#import "IQUIViewController+Additions.h"
-#import "IQNSArray+Sort.h"
+#import <IQKeyboardManager/IQUIView+Hierarchy.h>
+#import <IQKeyboardManager/IQUITextFieldView+Additions.h>
+#import <IQKeyboardManager/IQUIViewController+Additions.h>
+#import <IQKeyboardManager/IQNSArray+Sort.h>
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
 @implementation UIView (IQ_UIView_Hierarchy)

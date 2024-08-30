@@ -23,8 +23,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "IQBarButtonItem.h"
-#import "IQKeyboardManagerConstantsInternal.h"
+#import <IQKeyboardManager/IQBarButtonItem.h>
+#import <IQKeyboardManager/IQKeyboardManagerConstantsInternal.h>
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
 @implementation IQBarButtonItem

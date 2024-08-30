@@ -23,7 +23,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "IQTextView.h"
+#import <IQKeyboardManager/IQTextView.h>
 
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")

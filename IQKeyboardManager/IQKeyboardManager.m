@@ -25,15 +25,15 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
-#import "IQKeyboardManager.h"
-#import "IQUIView+Hierarchy.h"
-#import "IQUIView+IQKeyboardToolbar.h"
-#import "IQNSArray+Sort.h"
-#import "IQKeyboardManagerConstantsInternal.h"
-#import "IQUIScrollView+Additions.h"
-#import "IQUITextFieldView+Additions.h"
-#import "IQUIViewController+Additions.h"
-#import "IQPreviousNextView.h"
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import <IQKeyboardManager/IQUIView+Hierarchy.h>
+#import <IQKeyboardManager/IQUIView+IQKeyboardToolbar.h>
+#import <IQKeyboardManager/IQNSArray+Sort.h>
+#import <IQKeyboardManager/IQKeyboardManagerConstantsInternal.h>
+#import <IQKeyboardManager/IQUIScrollView+Additions.h>
+#import <IQKeyboardManager/IQUITextFieldView+Additions.h>
+#import <IQKeyboardManager/IQUIViewController+Additions.h>
+#import <IQKeyboardManager/IQPreviousNextView.h>
 
 NSInteger const kIQDoneButtonToolbarTag             =   -1002;
 NSInteger const kIQPreviousNextButtonToolbarTag     =   -1005;

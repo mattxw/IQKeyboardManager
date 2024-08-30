@@ -24,7 +24,7 @@
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
-#import "IQUIViewController+Additions.h"
+#import <IQKeyboardManager/IQUIViewController+Additions.h>
 
 
 NS_EXTENSION_UNAVAILABLE_IOS("Unavailable in extension")
